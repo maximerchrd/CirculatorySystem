@@ -1,0 +1,9 @@
+CirculatorySystem.sln
+Packages/
+ProjectSettings/
+.idea/
+.vscode/
+android-build*
+Assembly-CSharp.csproj
+Library/
+Temp/
